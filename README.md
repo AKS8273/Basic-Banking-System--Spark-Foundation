@@ -1,8 +1,8 @@
 # basicbanksystem
-# Mern App | Basic Banking System
+# Mern pp | Basic Banking System
 
-Hi am Pratiksha Doke
+Hi am anand kumar singh
 I have created Basic Banking System application using MERN stack 
 
-[![basicbanksystem](https://img.youtube.com/vi/1LBGdbHfSt8/0.jpg)](https://www.youtube.com/watch?v=1LBGdbHfSt8)
+
 
